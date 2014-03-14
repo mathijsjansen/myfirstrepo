@@ -2,6 +2,6 @@
 
 /* My class project */
 
-echo "Welcome";
+echo "Welcome to this testproject";
 
 ?>
